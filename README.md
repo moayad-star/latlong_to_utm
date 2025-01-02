@@ -26,7 +26,6 @@ pip install utm pandas tqdm
  1. Prepare a text file containing Latitude and Longitude coordinates. Each coordinate should be on a new line and formatted as latitude,longitude (e.g.` 00.00000, 00.00000`).
  2. Run the script:
 
-`bash`
 ```
 python latlon_to_utm_converter.py
 ```
